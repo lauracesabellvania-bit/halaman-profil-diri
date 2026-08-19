@@ -1,0 +1,25 @@
+h1,h2,h3,p{
+    color:rgb(156, 242, 213);
+    font-family:'Times New Roman', Times, serif;
+    text-align: left;
+}
+h5,h6{
+    color:rgb(61, 125, 125);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+} 
+       
+.hexavolt,.KELAS,.NAMA{
+    background-color: rgba(47, 79, 109, 0.907);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+        
+#rpl6,#MOTTO{
+    background-color: rgba(75, 61, 85, 0.878);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h4{
+    color:rgb(23, 78, 78);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+} 
